@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1647655940 source:c:\users\cecil\onedrive\escritorio\greedy\primero_el_mejor\main.cpp
+	<iostream>
+	<windows.h>
+	"Grafo.h"
+
+1647655898 c:\users\cecil\onedrive\escritorio\greedy\primero_el_mejor\grafo.h
+	<iostream>
+	<queue>
+	<list>
+	<stack>
+
+1647654021 source:c:\users\cecil\onedrive\escritorio\greedy\primero_el_mejor\grafo.cpp
+	"Grafo.h"
+
